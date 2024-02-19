@@ -1,7 +1,7 @@
 
 # Aplikasi Kotlin
 
-Aplikasi ini hanyalah sebgaia sarana saya belajar, dan tidak dapat berjalan dengan lancar. Untuk itu kritik dan saran yang membangun sangat saya butuhkan.
+Aplikasi ini hanyalah sebagaia sarana saya belajar, dan tidak dapat berjalan dengan lancar. Untuk itu kritik dan saran yang membangun sangat saya butuhkan.
 
 
 ## Hi, I'm Sepp! 👋
