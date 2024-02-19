@@ -7,7 +7,7 @@ Aplikasi ini hanyalah sebagaia sarana saya belajar, dan tidak dapat berjalan den
 ## Hi, I'm Sepp! 👋
 ### 🚀 About Me
 
-Nama saya Septito Aldo Elvianto biasa dipanggil sepp, dengan NIM 233307026. Disini saya sebagai mahasiswa di Politeknik Negeri Madiun (PNM), Belajar Pemogrman Web I. Tools yang digunakan dan bahasa yang digunakan adalah Kotlin
+Nama saya Septito Aldo Elvianto biasa dipanggil sepp, dengan NIM 233307026. Disini saya sebagai mahasiswa di Politeknik Negeri Madiun (PNM), Belajar Pemograman Mobile. Tools yang digunakan Android Studio dan bahasa yang digunakan adalah Kotlin
 
 👩‍💻 I'm currently working from home
 
