@@ -1,15 +1,15 @@
 package com.ti2a.aplikasikotlin
 
 fun main(){
-    println("====== Default Parameter =========")
+    println("==Default Parameter==")
     drive()
     drive("Normal", "Motorcycle")
     drive("Very Slow", "Turtle")
     println()
-    println("====== Required Parameter =========")
+    println("==Required Parameter==")
     feedTheFish()
     println()
-    println("====== Compact Function =========")
+    println("==Compact Function==")
     feedTheFishs()
 }
 
