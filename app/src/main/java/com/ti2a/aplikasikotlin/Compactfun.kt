@@ -1,20 +1,9 @@
 package com.ti2a.aplikasikotlin
 
-fun main(){
-    println("==Default Parameter==")
-    drive()
-    drive("Normal", "Motorcycle")
-    drive("Very Slow", "Turtle")
-    println()
-    println("==Required Parameter==")
-    feedTheFish()
-    println()
-    println("==Compact Function==")
-    feedTheFishs()
-}
 
-fun drive(speed: String = "fast", like:String = "Cheetah") {
-    println("Driving $speed like $like")
+
+fun drive(speed: String = "Cepat", like:String = "Macan") {
+    println("Berkendara $speed Seperti $like")
 }
 
 fun shouldChangeWater (day: String, temperature: Int = 25, dirty: Int = 2): Boolean {
@@ -70,4 +59,19 @@ fun feedTheFishs() {
     val food = fishFood(day)
     println ("Today is $day and the fish eat $food")
     println("Change water: ${shouldChangeWaters(day)}")
+}
+
+fun main(){
+    println("Default Function ")
+    drive()
+    drive("Normal", "Wedos")
+    drive("Lemot", "Kura-Kura")
+    println()
+    println()
+    println("Required Parameter")
+    feedTheFish()
+    println()
+    println()
+    println("Compact Function")
+    feedTheFishs()
 }
