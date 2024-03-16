@@ -16,12 +16,12 @@ fun makeDecorations() {
     val decoration3 = Decoration("slate")
     println(decoration1)
 
-    println("~".repeat(50))
+    println("=".repeat(50))
 
     println (decoration1.equals(decoration2))
     println (decoration3.equals(decoration2))
 
-    println("~".repeat(50))
+    println("=".repeat(50))
 
     val d5 = Decoration2("crystal", "wood", "diver")
     println(d5)
@@ -40,11 +40,11 @@ enum class Direction(val degrees: Int) {
 
 fun main() {
     makeDecorations()
-    println("~".repeat(50))
+    println("=".repeat(50))
     println(Color.RED.rgb)
     println(Color.GREEN)
     println(Color.BLUE)
-    println("~".repeat(50))
+    println("=".repeat(50))
     println(Direction.EAST.name)
     println(Direction.NORTH.ordinal)
     println(Direction.WEST.degrees)
